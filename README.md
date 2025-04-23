@@ -1,9 +1,9 @@
 # 🚀 GFG 50 C++ Projects Collection
 
-A curated collection of 50 C++ projects from GeeksforGeeks, iimplemented with modern practices and thorough documentation.
+A curated collection of 50 C++ projects from GeeksforGeeks, implemented with modern practices and thorough documentation.
 
 ![C++](https://img.shields.io/badge/C++-17-%2300599C?logo=c%2B%2B)
-![License](https://image.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-MIT-green)
 ![GitHub Action](https://img.shields.io/badge/build-passing-brightgreen)
 
 ## 📋 Table of contents
